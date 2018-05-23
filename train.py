@@ -157,7 +157,7 @@ def train(path, batch_size, EPOCHS):
             # plt.imshow(rolled, cmap='gray')
             plt.imshow(rolled)
             plt.axis('off')
-        fig.canvas.draw()
+        # fig.canvas.draw()
         plt.savefig('Epoch_' + str(epoch) + '.png')
 
 
