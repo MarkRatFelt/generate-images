@@ -37,7 +37,7 @@ def train(path, batch_size, EPOCHS):
     # reproducibility
     # np.random.seed(42)
 
-    fig = plt.figure()
+    # fig = plt.figure()
 
     # Get image paths
     print("Loading paths..")
