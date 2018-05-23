@@ -1,3 +1,7 @@
+# ORIGINAL REPOSITORY
+
+https://github.com/jhayes14/GAN
+
 # GAN
 Generate images via a Generative Adversarial Network (GAN)
 
